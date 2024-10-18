@@ -1,4 +1,4 @@
-<h1 align="center">Restaurants Analytics 2023</h1>
+<h1 align="center">Restaurants Analytics</h1>
 
 <br>
 
